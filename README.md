@@ -29,25 +29,34 @@ The **Course Companion App** is designed to make course management easier by int
 
 ## Prototypes
 
-### Initial Screens
+### Login Screen
 <img src="./images/login.png" alt="Initial Screens" width="300" />
 
+### Courses Page
+<img src="./images/courses.png" alt="Initial Screens" width="300" />
+
 ### Calendar Integration
-![Calendar Integration](./images/calendar-page.png)
+<img src="./images/calendar.png" alt="Initial Screens" width="300" />
 
-### Assignment Tracking
-![Assignment Tracking](./images/assignment-tracking.png)
+### Individual Course Page
+<img src="./images/course-description.png" alt="Initial Screens" width="300" />
 
-### Group Chat
-![Group Chat](./images/group-chat.png)
+### Assignment Overview
+<img src="./images/assignments.png" alt="Initial Screens" width="300" />
+
+### Group Chats
+<img src="./images/chat.png" alt="Initial Screens" width="300" />
+
+### Individual Chat 
+<img src="./images/individual chat.png" alt="Initial Screens" width="300" />
 
 ## :books: Navigation Prototype
 
-![Navigation Prototype](./images/navigation-flow.png)
+<img src="./images/navigation.png" alt="Initial Screens" width="1000" />
 
 ## :film_projector: Demo Video
 
-Watch the video [here](https://www.yourvideolink.com) *(Add your video link here)*
+Watch the video [here](https://www.yourvideolink.com) 
 
 ## :bulb: Future Planning
 
