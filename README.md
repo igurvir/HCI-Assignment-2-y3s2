@@ -6,7 +6,7 @@ Documentation and prototype for the **Course Companion App**, an educational pla
 
 ## Application Versions
 
-1. [Prototype Version 1 (Figma)](https://www.figma.com/design/d3XK3rT4BrGbcPpES8ZuAI/Assignment-2Part-3?node-id=0-1&t=pUfqVD4cdLfzqzC1-1) *(Add your Figma link here)*
+1. [Prototype Version 1 (Figma)](https://www.figma.com/design/d3XK3rT4BrGbcPpES8ZuAI/Assignment-2Part-3?node-id=0-1&t=pUfqVD4cdLfzqzC1-1) 
 
 ## :thinking: About
 
@@ -30,7 +30,7 @@ The **Course Companion App** is designed to make course management easier by int
 ## Prototypes
 
 ### Initial Screens
-![Initial Screens](./images/initial-screens.png)
+<img src="./images/login.png" alt="Initial Screens" width="300" />
 
 ### Calendar Integration
 ![Calendar Integration](./images/calendar-page.png)
@@ -64,4 +64,4 @@ For future development, we plan to include the following features:
 
 - [GitHub Repository](https://github.com/igurvir/HCI-Assignment-2-y3s2) 
 - [Figma Public Link](https://www.figma.com/design/d3XK3rT4BrGbcPpES8ZuAI/Assignment-2Part-3?node-id=0-1&t=pUfqVD4cdLfzqzC1-1) 
-- [Demo Video](https://www.yourvideolink.com) *(Add your video link here)*
+- [Demo Video](https://www.yourvideolink.com) 
