@@ -56,7 +56,7 @@ The **Course Companion App** is designed to make course management easier by int
 
 ## :film_projector: Demo Video
 
-Watch the video [here](https://www.yourvideolink.com) 
+Watch the video [here]() 
 
 ## :bulb: Future Planning
 
