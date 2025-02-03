@@ -24,6 +24,8 @@ The **Course Companion App** is designed to make course management easier by int
   - View assignment due dates in a monthly calendar format
 - Group Chat
   - Chat with group members for projects and discussions
+  - Have a video conference with the team
+  - Use AI summarizer tool to summarize the meeting (Minutes of the Meeting)
   - Organized chat lists by course
 - Clean and modern user interface
 
@@ -48,15 +50,21 @@ The **Course Companion App** is designed to make course management easier by int
 <img src="./images/chat.png" alt="Initial Screens" width="300" />
 
 ### Individual Chat 
-<img src="./images/individual chat.png" alt="Initial Screens" width="300" />
+<img src="./images/individual-chat-new.png" alt="Initial Screens" width="300" />
+
+### Group Chat Meet
+<img src="./images/meet-call.png" alt="Initial Screens" width="300" />
+
+### AI Meet Summarizer  
+<img src="./images/ai-summarizer.png" alt="Initial Screens" width="300" />
 
 ## :books: Navigation Prototype
 
-<img src="./images/navigation.png" alt="Initial Screens" width="1000" />
+<img src="./images/navigation-final.png" alt="Initial Screens" width="1000" />
 
 ## :film_projector: Demo Video
 
-Watch the video [here]() 
+Watch the video [here](https://youtu.be/FrUwjISwmB8) 
 
 ## :bulb: Future Planning
 
